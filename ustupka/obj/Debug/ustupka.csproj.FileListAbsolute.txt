@@ -1,0 +1,7 @@
+C:\Users\George\source\repos\ustupka\ustupka\obj\Debug\ustupka.csprojAssemblyReference.cache
+C:\Users\George\source\repos\ustupka\ustupka\obj\Debug\ustupka.csproj.CoreCompileInputs.cache
+C:\Users\George\source\repos\ustupka\ustupka\bin\Debug\ustupka.exe.config
+C:\Users\George\source\repos\ustupka\ustupka\bin\Debug\ustupka.exe
+C:\Users\George\source\repos\ustupka\ustupka\bin\Debug\ustupka.pdb
+C:\Users\George\source\repos\ustupka\ustupka\obj\Debug\ustupka.exe
+C:\Users\George\source\repos\ustupka\ustupka\obj\Debug\ustupka.pdb
